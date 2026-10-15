@@ -335,14 +335,6 @@ artificial-intelligence/
 └── LICENSE             # Optional license file
 ```
 
-## How to Publish on GitHub
-
-1. Create a **public** repository named `artificial-intelligence` (or `artificial-intelligence-research`).
-2. Leave GitHub's **Add README** option **off** when creating the repository.
-3. Select **uploading an existing file**.
-4. Upload this `README.md` file and **Commit changes**.
-5. GitHub will render the Mermaid diagrams automatically.
-
 ---
 
 <div align="center">
